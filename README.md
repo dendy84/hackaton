@@ -11,7 +11,8 @@ Travel buddy’s platform:
 https://marvelapp.com/10ge0a56/screen/34610929
 
 
-APK
+APK:
+
 buddy-v1.0.apk --> aplikasi untuk tour guide (driver kalau di uber)
 
 TravelBuddy-v.1.0.apk --> aplikasi untuk traveller (rider kalau di uber)
