@@ -21,7 +21,13 @@ TravelBuddy-v.2.0.apk ---> update rubah ui
 
 Management.apk ---> untuk approve tour guide (jadi tour guide yang di approve harus sepengetahuan dev)
 
+Video:
 
+Buddy tour guide
+https://drive.google.com/open?id=1caEzF2jzfiCM-_oA3mFaWQ3oYfD2YYgf
+
+Buddy Traveler
+https://drive.google.com/open?id=1dsO1do4IQTUGCVB86H0Leoa63RQcckon
 
 
 apabila ada saran dan kritik boleh hubungi saya via email.
